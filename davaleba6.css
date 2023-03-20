@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+}
+h1 {
+   padding-left: 100px;
+   color: #000000;
+}
+table {
+   border-collapse: collapse;  
+   margin-left: 100px; 
+}
+.th11 {
+    width: 72px;
+height: 57px;
+background: #F9F9F9;
+border: 1px solid #DADADA;
+}
+.head22 {
+    width: 444px;
+height: 57px;
+background: #F9F9F9;
+border: 1px solid #DADADA;
+text-align: left;
+}
+.head33 {
+    width: 276px;
+height: 57px;
+background: #F9F9F9;
+border: 1px solid #DADADA;
+}
+.head44 {
+    width: 368px;
+height: 57px;
+background: #F9F9F9;
+border: 1px solid #DADADA;
+}
+.td1 {
+    width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.td2 {
+    width: 72px;
+    height: 57px;
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+    text-align: center;
+}
+.td3 {
+width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.td4 {
+width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.td5 {
+width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.td6 { 
+width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.td7 {
+width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.td8
+{
+width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.td9 {
+width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+} 
+.td10 {
+width: 72px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.head2 {
+    width: 444px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+}
+.head3 {
+    width: 276px;
+height: 57px;
+background: #FFFFFF;
+border: 1px solid #DADADA;
+text-align: center;
+}
+.head4 {
+    width: 368px;
+    height: 57px;
+    background: #FFFFFF;
+border: 1px solid #DADADA;
+display: flex;
+justify-content: center;
+
+
+}
+.yelow {
+    width: 115px;
+height: 36px;
+background: #FFD43A;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin:5px;
+
+
+}
+.red {
+    width: 115px;
+height: 36px;
+background: #E84949;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+margin:5px;
+align-items: center; 
+
+
+}
